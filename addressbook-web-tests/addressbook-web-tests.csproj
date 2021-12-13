@@ -62,11 +62,13 @@
     <Compile Include="AccountData.cs" />
     <Compile Include="Circle.cs" />
     <Compile Include="Figure.cs" />
+    <Compile Include="GroupContactCreationTests.cs" />
     <Compile Include="GroupData.cs" />
     <Compile Include="Square.cs" />
     <Compile Include="FiguresTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GroupCreationTests.cs" />
+    <Compile Include="GroupContactCreationTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
